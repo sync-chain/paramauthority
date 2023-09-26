@@ -1,4 +1,4 @@
-module github.com/noble-assets/paramauthority
+module github.com/sync-chain/paramauthority
 
 go 1.21
 
